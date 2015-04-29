@@ -1,0 +1,18 @@
+<Alloy>
+	<Window class="container">
+		<View id="backview">
+			<Label top = "30" id='lbl_status'>Getting iCloud Status...</Label>
+			<Button  onClick="createFolder">Create Folder</Button>
+			<Button  onClick="upload">Upload</Button>
+			<Button  onClick="download">Download</Button>
+			<Button  onClick="deleteFile">Delete</Button>
+			<Button  onClick="showFileChangeView">File Change Notification</Button>
+		</View>
+		<View id='textareaview'>
+			<TextArea id='textarea'/>
+			<Button  onClick="saveFileData">Save</Button>
+			<Button  onClick="hideFileChangeView">Cancel</Button>
+			<Label id='lblNote' >NOTE : You have to install this app in two devices which have same icloud account. When you type something and save than this saves this text in file which is data.txt so once you save the code and iOS trigger iCloud Sync at that time other device will have notification of the file change by other device.You don't need to worry about downloding updated file when you got notification as module will automatically download this for you.</Label>
+		</View>
+	</Window>
+</Alloy>

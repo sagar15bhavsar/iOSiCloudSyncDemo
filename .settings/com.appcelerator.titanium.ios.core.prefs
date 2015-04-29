@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=icloudModuleTest
+iosLaunchConfigurationAttributes/appid=com.icloudtest.ios
+iosLaunchConfigurationAttributes/certificate=Sagar Bhavsar (37Z692UL3U)
+iosLaunchConfigurationAttributes/distribute_path=/Users/Sagar/Desktop
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/output_format=ipa
+iosLaunchConfigurationAttributes/sdk_version=7.1
+iosLaunchConfigurationAttributes/uuid=fc5b37ac-0f7a-46c8-86aa-8c7d0e871c76

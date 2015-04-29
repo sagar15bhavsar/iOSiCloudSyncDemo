@@ -1,0 +1,9 @@
+#appname:icloudModuleTest
+#appid:com.icloudtest.ios
+#type:mobile
+#guid:c38586d6-5555-4f09-9169-06c6ed1701b0
+#version:1.0
+#publisher:Sagar Bhavsar
+#url:http://sagaridev.wordpress.com
+#image:appicon.png
+#desc:This is a demo project of the iCloudDbSync

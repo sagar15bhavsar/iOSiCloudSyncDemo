@@ -1,0 +1,52 @@
+".container": {
+	backgroundColor:"white"
+},
+
+"#backview":{
+	backgroundColor:'White',
+	height : "100%",
+	width : "100%",
+	layout: 'vertical',
+	top : 20
+},
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: 70,
+	color: "blue"
+} ,
+
+"Button": {
+	width: 200,
+	height: 40,
+	borderWidth : 2,
+	borderColor : 'blue',
+	top : 15,
+	color : 'blue'
+},
+"#textareaview":{
+	backgroundColor:'White',
+	height : "100%",
+	width : "100%",
+	visible : false,
+	layout: 'vertical',
+},
+"#textarea":{
+	top : 50,
+	width: 250,
+	height: 100,
+	borderWidth : 2,
+	borderColor : 'blue',
+	color : 'blue',
+	value : 'Enter text here and save to test file change notification.',
+	font:{fontSize : 16}	
+},
+"#lblNote": {
+	height: Ti.UI.SIZE,
+	left: 10,
+	right : 10,
+	top : 30,
+	color: "blue",
+	font:{fontSize:14},
+	textAlign:'center'
+}
