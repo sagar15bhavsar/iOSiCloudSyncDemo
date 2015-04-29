@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=icloudModuleTest
+iosLaunchConfigurationAttributes/appid=com.elasticven.textasy
+iosLaunchConfigurationAttributes/certificate=Elastic Ventures Ltd. (5T4YEY77WP)
+iosLaunchConfigurationAttributes/distribute_path=/Users/Sagar/Desktop
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/output_format=ipa
+iosLaunchConfigurationAttributes/sdk_version=7.0
+iosLaunchConfigurationAttributes/uuid=78F63097-3FF3-45BB-B5CA-AE1A8D741FAB
